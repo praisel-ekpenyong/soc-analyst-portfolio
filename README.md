@@ -39,21 +39,21 @@ Entry-level SOC Analyst with hands-on experience in security monitoring, alert t
 
 ---
 
-## Hands-On SOC Case Studies
+## Hands-On SOC Case Studies (Selected)
 
 1. **Brute Force Attack Investigation**  
    Windows authentication log analysis, SIEM correlation, MITRE ATT&CK mapping  
    👉 [View case study](./case-studies/brute-force-investigation.md)
 
-
 2. **Malware Execution Investigation**  
    Suspicious process execution and Windows Event Log analysis  
    👉 [View case study](./case-studies/malware-execution-investigation.md)
 
-   
 3. **Windows Event Logs Investigation – Finding Suspicious Activity**  
    Windows Security Event Log analysis and timeline correlation  
    👉 [View case study](./case-studies/windows-event-logs-investigation.md)
+
+> Each case study follows a SOC-style investigation format: alert context, evidence review, findings, conclusion, and response recommendations.
 
 ---
 
