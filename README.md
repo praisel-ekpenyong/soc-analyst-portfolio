@@ -10,7 +10,7 @@ Nigeria | Open to Remote & Relocation
 
 ## Profile
 
-Entry-level SOC Analyst with hands-on experience in security monitoring, alert triage, and incident investigation through structured SOC labs and simulations. Focused on log analysis, SIEM investigations, and incident response workflows in Security Operations Center environments.
+Entry-level SOC Analyst with hands-on experience in security monitoring, alert triage, and incident investigation through structured SOC labs and simulations. Experienced in analyzing SIEM alerts, Windows Event Logs, and suspicious activity to determine true positives and escalation paths within SOC environments.
 
 ---
 
