@@ -4,7 +4,6 @@
 Nigeria | Open to Remote & Relocation  
 📧 ekpenyongpraisel@gmail.com  
 🔗 LinkedIn: https://linkedin.com/in/praiselekpenyong
-
 💻 GitHub: https://github.com/praisel-ekpenyong  
 
 ---
