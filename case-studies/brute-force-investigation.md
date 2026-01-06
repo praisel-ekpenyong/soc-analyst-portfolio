@@ -71,4 +71,4 @@ This activity was confirmed as a **true positive brute force attempt** against a
 - SIEM alert triage  
 - Windows Event Log analysis  
 - MITRE ATT&CK mapping  
-- Incident documentation and escalation  
+- Incident documentation and escalation
